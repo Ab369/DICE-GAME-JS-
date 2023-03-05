@@ -5,7 +5,6 @@ This is a simple dice game page.
 ## Table of contents
 
 - [Overview](#overview)
-- [Links](#links)
 - [My process](#my-process)
 - [What I learned](#what-i-learned)
 - [Continued development](#continued-development)
@@ -15,9 +14,7 @@ This is a simple dice game page.
 ## Overview
  This dice game page is made using html,css and javascript. It involves basic usage of Javascript and quite simple. This project provided good beginner-level practice of Javascript.
 
-### Links
 
-- Live Site URL: (https://your-live-site-url.com)
 
 ## My process
   1. First ,made the basic html and css struture.
